@@ -41,9 +41,9 @@ int main(int argc, char *argv[]) {
     fclose(file);
 
     if (parameter[1] == 'c') {
-        printf("℅?﹞?那y㏒o%d\n", charCount);
+        printf("趼睫杅\n", charCount);
     } else if (parameter[1] == 'w') {
-        printf("米ㄓ∩那那y㏒o%d\n", wordCount);
+        printf("等棵杅\n", wordCount);
     }
 
     return 0;
